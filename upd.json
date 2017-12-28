@@ -1,0 +1,95 @@
+{
+  "ok": true, 
+  "result": [
+    {
+      "message": {
+        "from": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "is_bot": false, 
+          "id": 204077935
+        }, 
+        "text": "/start", 
+        "entities": [
+          {
+            "length": 6, 
+            "type": "bot_command", 
+            "offset": 0
+          }
+        ], 
+        "chat": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "type": "private", 
+          "id": 204077935
+        }, 
+        "date": 1514131733, 
+        "message_id": 1
+      }, 
+      "update_id": 293594699
+    }, 
+    {
+      "message": {
+        "date": 1514134005, 
+        "text": "\u043f\u0440\u0438\u0432\u0435\u0442", 
+        "from": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "is_bot": false, 
+          "id": 204077935, 
+          "language_code": "en"
+        }, 
+        "message_id": 3, 
+        "chat": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "type": "private", 
+          "id": 204077935
+        }
+      }, 
+      "update_id": 293594700
+    }, 
+    {
+      "message": {
+        "date": 1514134100, 
+        "text": "\u0434\u0430\u0440\u043e\u0432\u0430", 
+        "from": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "is_bot": false, 
+          "id": 204077935, 
+          "language_code": "en"
+        }, 
+        "message_id": 4, 
+        "chat": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "type": "private", 
+          "id": 204077935
+        }
+      }, 
+      "update_id": 293594701
+    }, 
+    {
+      "message": {
+        "date": 1514134533, 
+        "text": "hello my friend", 
+        "from": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "is_bot": false, 
+          "id": 204077935, 
+          "language_code": "en"
+        }, 
+        "message_id": 5, 
+        "chat": {
+          "first_name": "Roma", 
+          "last_name": "Yudo", 
+          "type": "private", 
+          "id": 204077935
+        }
+      }, 
+      "update_id": 293594702
+    }
+  ]
+}
